@@ -1,0 +1,6 @@
+C:\Mphasis\Simplilearn-P4\Project-2\Project-2\bin\Debug\Project-2.dll
+C:\Mphasis\Simplilearn-P4\Project-2\Project-2\bin\Debug\Project-2.pdb
+C:\Mphasis\Simplilearn-P4\Project-2\Project-2\obj\Debug\Project-2.csproj.AssemblyReference.cache
+C:\Mphasis\Simplilearn-P4\Project-2\Project-2\obj\Debug\Project-2.csproj.CoreCompileInputs.cache
+C:\Mphasis\Simplilearn-P4\Project-2\Project-2\obj\Debug\Project-2.dll
+C:\Mphasis\Simplilearn-P4\Project-2\Project-2\obj\Debug\Project-2.pdb
